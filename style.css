@@ -24,8 +24,11 @@ body {
 
 .hero {
     height: 90vh;
-    background-image: url('https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1200');
+
+    background-image: url('fondo1.avif');
+
     background-size: cover;
+
     background-position: center;
 }
 
