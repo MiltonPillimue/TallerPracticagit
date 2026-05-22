@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.card img {
+    height: 250px;
+    object-fit: cover;
+}
+
+.card {
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+footer {
+    font-size: 14px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    height: 90vh;
+    background-image: url('https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1200');
+    background-size: cover;
+    background-position: center;
+}
+
+.hero .container {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 40px;
+    border-radius: 10px;
+}
+
+footer {
+    font-size: 14px;
+}
